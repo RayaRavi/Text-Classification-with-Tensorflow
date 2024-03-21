@@ -2,7 +2,7 @@
 This repository contains a TensorFlow implementation for text classification using various deep learning models. 
 Text classification is a fundamental task in natural language processing (NLP) where the goal is to assign predefined categories or labels to textual data.
 
-# Model  https://www.kaggle.com/models/google/gnews-swivel
+# Used Model  https://www.kaggle.com/models/google/gnews-swivel
 To use within keras 
 
 hub_layer = hub.KerasLayer("https://kaggle.com/models/google/gnews-swivel/frameworks/TensorFlow2/variations/tf2-preview-20dim/versions/1", output_shape=[20],
